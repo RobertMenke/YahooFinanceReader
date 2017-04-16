@@ -1,0 +1,1 @@
+This repo scrapes historical finance data from yahoo using jsoup and writes it to a csv for analysis. It can and probably will break at any time when yahoo changes their markup.
